@@ -1,0 +1,7 @@
+1. Revert goes back to the last save, as long as you have not yet saved again.
+
+2. The loop in showPeople steps through the array "friends" and prints out the information
+of each object stored in it to the screen using the function "toString".
+
+3. When the toString function is commented out, the loop in showPeople cannot print the right
+information, it instead prints out the address of each objects in memory, such as: "Friend@76ae34".
